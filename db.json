@@ -1,0 +1,94 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "name": "Queen",
+      "releasedate": 1973,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Queen_Queen.png"
+    },
+    {
+      "id": 2,
+      "name": "Queen II",
+      "releasedate": 1974,
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/43/Queen_II_%28album_cover%29.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sheer Heart Attack",
+      "releasedate": 1974,
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Queen_Sheer_Heart_Attack.png"
+    },
+    {
+      "id": 4,
+      "name": "A Night At The Opera",
+      "releasedate": 1975,
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Queen_A_Night_At_The_Opera.png"
+    },
+    {
+      "id": 5,
+      "name": "A Day At The Races",
+      "releasedate": 1976,
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/31/A_Day_at_the_Races_%28Queen%29.jpg"
+    },
+    {
+      "id": 6,
+      "name": "News of the World",
+      "releasedate": 1977,
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ea/Queen_News_Of_The_World.png"
+    },
+    {
+      "id": 7,
+      "name": "Jazz",
+      "releasedate": 1978,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/06/Queen_Jazz.png"
+    },
+    {
+      "id": 8,
+      "name": "The Game",
+      "releasedate": 1980,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/16/Queen_The_Game.png"
+    },
+    {
+      "id": 9,
+      "name": "Flash Gordon",
+      "releasedate": 1980,
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/cc/Queen_Flash_Gordon.png"
+    },
+    {
+      "id": 10,
+      "name": "Hot Space",
+      "releasedate": 1982,
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Queen_Hot_Space.png"
+    },
+    {
+      "id": 11,
+      "name": "The Works",
+      "releasedate": 1984,
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/39/Queen_The_Works.png"
+    },
+    {
+      "id": 12,
+      "name": "A Kind of Magic",
+      "releasedate": 1986,
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/63/Queen_A_Kind_Of_Magic.png"
+    },
+    {
+      "id": 13,
+      "name": "The Miracle",
+      "releasedate": 1989,
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e3/Queen_The_Miracle.png"
+    },
+    {
+      "id": 14,
+      "name": "Innuendo",
+      "releasedate": 1991,
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f7/Queen_Innuendo.png"
+    },
+    {
+      "id": 15,
+      "name": "Made in Heaven",
+      "releasedate": 1995,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Madeinheaven.jpg"
+    }
+  ]
+}
